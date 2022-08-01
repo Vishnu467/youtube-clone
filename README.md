@@ -3,6 +3,8 @@
 This is a youtube-clone
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ 
+Check out the website link using:https://clone-bdbf5.web.app/
 
 ### installing
 
